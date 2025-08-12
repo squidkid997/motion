@@ -85,6 +85,34 @@
         "speed": 300
       }
     },
+    "rich_text_X9aYkR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cjdPLf": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "text_zaBJn7": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cjdPLf",
+        "text_zaBJn7"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "featured-collection-switcher": {
       "type": "featured-collection-switcher",
       "custom_css": [],
@@ -298,6 +326,7 @@
     "bdd1de28-24d6-48be-b33d-f23b39a768a9",
     "hero-video",
     "b934b03a-1f3a-4bb3-8382-967fdb0a37a0",
+    "rich_text_X9aYkR",
     "featured-collection-switcher",
     "rich-text",
     "featured-collections",
