@@ -91,14 +91,14 @@
         "heading_cjdPLf": {
           "type": "heading",
           "settings": {
-            "title": "Rich text"
+            "title": "ABOUT US"
           }
         },
         "text_zaBJn7": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": ""
+            "text": "<p>At My Store, we are dedicated to providing a curated selection of trendy fashion items that cater to the modern consumer's desire for style and comfort. Founded in 2025 by Mason Schultz in Rogers, we have quickly established ourselves as a go to destination for individuals seeking to elevate their wardrobe with unique and high-quality pieces 🌸<br/><br/></p>"
           }
         }
       },
