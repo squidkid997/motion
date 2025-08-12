@@ -37,7 +37,7 @@
             "link_text": "Explore our options",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/man-in-blue-jacket.jpg",
-            "image_mobile": "shopify://shop_images/suit-and-tie.jpg",
+            "image_mobile": "shopify://shop_images/man-in-blue-jacket.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 26
           }
@@ -49,7 +49,7 @@
       ],
       "settings": {
         "section_height": "natural",
-        "mobile_height": "auto",
+        "mobile_height": "500px",
         "parallax": false,
         "style": "dots",
         "autoplay": true,
