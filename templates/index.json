@@ -21,8 +21,8 @@
             "link": "shopify://collections/bestsellers",
             "link_text": "Explore our options",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/60c1e05e-20e6-4c98-ba85-c289d6c585e6.jpg",
-            "image_mobile": "shopify://shop_images/60c1e05e-20e6-4c98-ba85-c289d6c585e6_dc90c6a4-b2f9-46c1-b4ce-11410afb7861.jpg",
+            "image": "shopify://shop_images/suit-and-tie.jpg",
+            "image_mobile": "shopify://shop_images/suit-and-tie.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 26
           }
