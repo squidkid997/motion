@@ -26,10 +26,26 @@
             "parallax_direction": "top",
             "overlay_opacity": 26
           }
+        },
+        "image_THQdpJ": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/bestsellers",
+            "link_text": "Explore our options",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/man-in-blue-jacket.jpg",
+            "image_mobile": "shopify://shop_images/suit-and-tie.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 26
+          }
         }
       },
       "block_order": [
-        "template--20162465562954__bdd1de28-24d6-48be-b33d-f23b39a768a9-image-1"
+        "template--20162465562954__bdd1de28-24d6-48be-b33d-f23b39a768a9-image-1",
+        "image_THQdpJ"
       ],
       "settings": {
         "section_height": "natural",
