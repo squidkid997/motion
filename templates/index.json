@@ -119,7 +119,7 @@
       "settings": {
         "title": "Mest popular",
         "collection1": "chinos",
-        "collection2": "jeans",
+        "collection2": "",
         "per_row": 4,
         "view_all": true,
         "divider": false
