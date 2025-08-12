@@ -173,7 +173,7 @@
           "type": "newsletter",
           "settings": {
             "show_footer_title": true,
-            "title": "Prenumerera och spara",
+            "title": "Subscribe and save",
             "richtext": "<p>Subscribe to receive special offers, free giveaways, and once-in-a-lifetime deals.</p>",
             "container_width": 33
           }
@@ -189,7 +189,7 @@
           "type": "custom",
           "settings": {
             "show_footer_title": true,
-            "title": "Företaget",
+            "title": "The company",
             "text": "<p></p><ul><li>Digital Frontier Group AB</li><li>Org nr: 559449-0335</li></ul><p><strong>Kontakt: i</strong>nfo@duclaire.com</p>",
             "container_width": 45
           }
