@@ -1,1 +1,224 @@
-{"type":"footer","name":"t:sections.footer-group.name","sections":{"170369039727f808e2":{"type":"apps","settings":{"full_width":false,"space_around":true}},"5f51836c-beee-4053-9020-5b8903783935":{"type":"rich-text","blocks":{"sections--20162466414922__5f51836c-beee-4053-9020-5b8903783935-heading-1":{"type":"heading","settings":{"title":"DELIVERY PARTNERS"}},"sections--20162466414922__5f51836c-beee-4053-9020-5b8903783935-text-1":{"type":"text","settings":{"enlarge_text":true,"text":"<p>We only ship with the best and most reliable partners!<\/p>"}}},"block_order":["sections--20162466414922__5f51836c-beee-4053-9020-5b8903783935-heading-1","sections--20162466414922__5f51836c-beee-4053-9020-5b8903783935-text-1"],"disabled":true,"settings":{"align_text":"center","narrow_column":true,"divider":false}},"ec8e4296-a8d8-48d3-821d-842bff85d8b5":{"type":"text-columns","blocks":{"sections--20162466414922__ec8e4296-a8d8-48d3-821d-842bff85d8b5-text_block-1":{"type":"text_block","settings":{"enable_image":true,"image":"shopify:\/\/shop_images\/nedladdning_-_2023-11-25T133631.218.png","image_mask":"landscape","image_width":650,"title":"","text":"","button_label":"","button_link":""}},"sections--20162466414922__ec8e4296-a8d8-48d3-821d-842bff85d8b5-text_block-2":{"type":"text_block","settings":{"enable_image":true,"image":"shopify:\/\/shop_images\/nedladdning_-_2023-11-25T133602.734.png","image_mask":"none","image_width":650,"title":"","text":"","button_label":"","button_link":""}},"sections--20162466414922__ec8e4296-a8d8-48d3-821d-842bff85d8b5-text_block-3":{"type":"text_block","settings":{"enable_image":true,"image":"shopify:\/\/shop_images\/nedladdning_-_2023-11-25T133539.822.png","image_mask":"none","image_width":650,"title":"","text":"","button_label":"","button_link":""}}},"block_order":["sections--20162466414922__ec8e4296-a8d8-48d3-821d-842bff85d8b5-text_block-1","sections--20162466414922__ec8e4296-a8d8-48d3-821d-842bff85d8b5-text_block-2","sections--20162466414922__ec8e4296-a8d8-48d3-821d-842bff85d8b5-text_block-3"],"disabled":true,"settings":{"title":"","align_text":"center","divider":false}},"footer-promotions":{"type":"footer-promotions","blocks":{"footer-promotions0":{"type":"promotion","settings":{"enable_image":true,"image_mask":"none","image_width":650,"title":"Site-wide promotion","text":"<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>","button_label":"Optional button","button_link":""}},"footer-promotions1":{"type":"promotion","settings":{"enable_image":true,"image_mask":"none","image_width":650,"title":"Site-wide promotion","text":"<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>","button_label":"Optional button","button_link":""}},"footer-promotions2":{"type":"promotion","settings":{"enable_image":true,"image_mask":"none","image_width":650,"title":"Site-wide promotion","text":"<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>","button_label":"Optional button","button_link":""}}},"block_order":["footer-promotions0","footer-promotions1","footer-promotions2"],"disabled":true,"settings":{"hide_homepage":false,"image_size":"wide","align_text":"left"}},"footer":{"type":"footer","blocks":{"footer-3":{"type":"menu","settings":{"show_footer_title":true,"menu":"footer","container_width":20}},"footer-1":{"type":"menu","settings":{"show_footer_title":true,"menu":"kundtj-nst","container_width":20}},"footer-2":{"type":"newsletter","settings":{"show_footer_title":true,"title":"Prenumerera och spara","richtext":"<p>Prenumerera för att få specialerbjudanden, gratis giveaways och erbjudanden som bara finns en gång i livet.<\/p>","container_width":33}},"footer-0":{"type":"logo_social","settings":{"logo":"shopify:\/\/shop_images\/DUCLAIRE_LOGO_2.png","desktop_logo_height":50,"container_width":20}},"custom_midCcz":{"type":"custom","settings":{"show_footer_title":true,"title":"Företaget","text":"<p><\/p><ul><li>Digital Frontier Group AB<\/li><li>Org nr: 559449-0335<\/li><\/ul><p><strong>Kontakt: i<\/strong>nfo@duclaire.com<\/p>","container_width":45}}},"block_order":["footer-3","footer-1","footer-2","footer-0","custom_midCcz"],"settings":{"custom_footer_paymenticon":"<div class=\"qliro-badge\">\n<img width=\"100%\" src=\"https:\/\/assets.qliro.com\/shared\/se\/sv\/badge\/1\/alt1_flat_light_mint.png\">\n<\/div>","show_locale_selector":false,"show_currency_selector":false,"show_currency_flags":false,"show_payment_icons":true,"colorize_payment_icons":true,"show_copyright":true,"copyright_text":"- Where Style Meets Legacy"}}},"order":["170369039727f808e2","5f51836c-beee-4053-9020-5b8903783935","ec8e4296-a8d8-48d3-821d-842bff85d8b5","footer-promotions","footer"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "footer",
+  "name": "t:sections.footer-group.name",
+  "sections": {
+    "170369039727f808e2": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "5f51836c-beee-4053-9020-5b8903783935": {
+      "type": "rich-text",
+      "blocks": {
+        "sections--20162466414922__5f51836c-beee-4053-9020-5b8903783935-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "DELIVERY PARTNERS"
+          }
+        },
+        "sections--20162466414922__5f51836c-beee-4053-9020-5b8903783935-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We only ship with the best and most reliable partners!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "sections--20162466414922__5f51836c-beee-4053-9020-5b8903783935-heading-1",
+        "sections--20162466414922__5f51836c-beee-4053-9020-5b8903783935-text-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "ec8e4296-a8d8-48d3-821d-842bff85d8b5": {
+      "type": "text-columns",
+      "blocks": {
+        "sections--20162466414922__ec8e4296-a8d8-48d3-821d-842bff85d8b5-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "landscape",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "sections--20162466414922__ec8e4296-a8d8-48d3-821d-842bff85d8b5-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "sections--20162466414922__ec8e4296-a8d8-48d3-821d-842bff85d8b5-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "sections--20162466414922__ec8e4296-a8d8-48d3-821d-842bff85d8b5-text_block-1",
+        "sections--20162466414922__ec8e4296-a8d8-48d3-821d-842bff85d8b5-text_block-2",
+        "sections--20162466414922__ec8e4296-a8d8-48d3-821d-842bff85d8b5-text_block-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "footer-promotions": {
+      "type": "footer-promotions",
+      "blocks": {
+        "footer-promotions0": {
+          "type": "promotion",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Site-wide promotion",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "footer-promotions1": {
+          "type": "promotion",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Site-wide promotion",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "footer-promotions2": {
+          "type": "promotion",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Site-wide promotion",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "footer-promotions0",
+        "footer-promotions1",
+        "footer-promotions2"
+      ],
+      "disabled": true,
+      "settings": {
+        "hide_homepage": false,
+        "image_size": "wide",
+        "align_text": "left"
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "footer-3": {
+          "type": "menu",
+          "settings": {
+            "show_footer_title": true,
+            "menu": "footer",
+            "container_width": 20
+          }
+        },
+        "footer-1": {
+          "type": "menu",
+          "settings": {
+            "show_footer_title": true,
+            "menu": "",
+            "container_width": 20
+          }
+        },
+        "footer-2": {
+          "type": "newsletter",
+          "settings": {
+            "show_footer_title": true,
+            "title": "Prenumerera och spara",
+            "richtext": "<p>Subscribe to receive special offers, free giveaways, and once-in-a-lifetime deals.</p>",
+            "container_width": 33
+          }
+        },
+        "footer-0": {
+          "type": "logo_social",
+          "settings": {
+            "desktop_logo_height": 50,
+            "container_width": 20
+          }
+        },
+        "custom_midCcz": {
+          "type": "custom",
+          "settings": {
+            "show_footer_title": true,
+            "title": "Företaget",
+            "text": "<p></p><ul><li>Digital Frontier Group AB</li><li>Org nr: 559449-0335</li></ul><p><strong>Kontakt: i</strong>nfo@duclaire.com</p>",
+            "container_width": 45
+          }
+        }
+      },
+      "block_order": [
+        "footer-3",
+        "footer-1",
+        "footer-2",
+        "footer-0",
+        "custom_midCcz"
+      ],
+      "settings": {
+        "custom_footer_paymenticon": "<div class=\"qliro-badge\">\n<img width=\"100%\" src=\"https://assets.qliro.com/shared/se/sv/badge/1/alt1_flat_light_mint.png\">\n</div>",
+        "show_locale_selector": false,
+        "show_currency_selector": false,
+        "show_currency_flags": false,
+        "show_payment_icons": true,
+        "colorize_payment_icons": true,
+        "show_copyright": true,
+        "copyright_text": "- Where Style Meets Legacy"
+      }
+    }
+  },
+  "order": [
+    "170369039727f808e2",
+    "5f51836c-beee-4053-9020-5b8903783935",
+    "ec8e4296-a8d8-48d3-821d-842bff85d8b5",
+    "footer-promotions",
+    "footer"
+  ]
+}
