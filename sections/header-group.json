@@ -1,1 +1,40 @@
-{"type":"header","name":"t:sections.header-group.name","sections":{"announcement-bar":{"type":"announcement-bar","settings":{"announcement_text":"✔  Fri leverans över 1500kr ✔ Express leverans","announcement_link":"","announcement_closable":false}},"header":{"type":"header","settings":{"logo":"shopify:\/\/shop_images\/DUCLAIRE_LOGO_1.png","logo-inverted":"shopify:\/\/shop_images\/DUCLAIRE_LOGO_2.png","desktop_logo_width":200,"mobile_logo_width":140,"main_menu_link_list":"main-menu","hover_menu":true,"main_menu_alignment":"left","header_sticky":true,"sticky_index":true,"sticky_collection":false}}},"order":["announcement-bar","header"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "t:sections.header-group.name",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "settings": {
+        "announcement_text": "✔ Guaranteed Quality ✔ Express Delivery",
+        "announcement_link": "",
+        "announcement_closable": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "desktop_logo_width": 200,
+        "mobile_logo_width": 140,
+        "main_menu_link_list": "main-menu",
+        "hover_menu": true,
+        "main_menu_alignment": "left",
+        "header_sticky": true,
+        "sticky_index": true,
+        "sticky_collection": false
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
