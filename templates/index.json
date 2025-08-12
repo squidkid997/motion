@@ -32,13 +32,13 @@
         "template--20162465562954__bdd1de28-24d6-48be-b33d-f23b39a768a9-image-1"
       ],
       "settings": {
-        "section_height": "650px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "arrows",
+        "section_height": "natural",
+        "mobile_height": "500px",
+        "parallax": false,
+        "style": "dots",
         "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true
+        "autoplay_speed": 6,
+        "lazyload_images": false
       }
     },
     "hero-video": {
