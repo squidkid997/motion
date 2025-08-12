@@ -71,7 +71,7 @@
       "type": "featured-collection-switcher",
       "custom_css": [],
       "settings": {
-        "title": "Mest populära",
+        "title": "Mest popular",
         "collection1": "chinos",
         "collection2": "jeans",
         "per_row": 4,
@@ -85,14 +85,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "title": "DUCLAIRE"
+            "title": "Our story"
           }
         },
         "text": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Vårt varumärke är sprunget ur en passion för hantverk och stil. Varje kollektion är en hyllning till finess och innovation och speglar vår strävan efter skräddarsydd perfektion. Vi står för mer än bara kläder; vi representerar en livsstil med ambition och elegans. Välkommen till en värld där varje plagg är en del av vår berättelse om tidlös stil.</p>"
+            "text": "<p>Our brand is born out of a passion for craftsmanship and style. Each collection is a tribute to finesse and innovation and reflects our pursuit of tailored perfection. We stand for more than just clothing; we represent a lifestyle of ambition and elegance. Welcome to a world where each garment is a part of our story of timeless style.</p>"
           }
         }
       },
